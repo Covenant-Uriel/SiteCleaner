@@ -1,12 +1,10 @@
 {
   "manifest_version": 3,
-  "name": "一鍵網站清理專家",
-  "version": "1.0",
-  "description": "快速清理特定網站的快取與紀錄並釋放資源",
+  "name": "真實資源清理專家",
+  "version": "1.1",
   "permissions": [
     "browsingData",
     "tabs",
-    "storage",
     "scripting"
   ],
   "action": {
